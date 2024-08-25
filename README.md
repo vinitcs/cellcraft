@@ -25,4 +25,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 About 
 ## cellcraft 
 "CellCraft is an online spreadsheet editor where you can add data to cells, adjust font size and alignments, perform redo and undo actions, and search for cell data."
-[link](https://cellcraft.netlify.app/)
+[Checkout project](https://cellcraft.netlify.app/)
