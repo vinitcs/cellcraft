@@ -26,3 +26,12 @@ About
 ## cellcraft 
 "CellCraft is an online spreadsheet editor where you can add data to cells, adjust font size and alignments, perform redo and undo actions, and search for cell data."
 [Checkout project](https://cellcraft.netlify.app/)
+
+
+# This project uses the following technologies:
+1. Next.js: For server-side rendering and routing.
+2. Tailwind CSS: For styling.
+3. React.js: For building user interfaces.
+4. HTML: For structuring content.
+5. JavaScript: For functionality.
+6. Zustand Store: For state management
