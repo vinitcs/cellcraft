@@ -28,7 +28,7 @@ About
 [Checkout project](https://cellcraft.netlify.app/)
 
 
-# This project uses the following technologies:
+### This project uses the following technologies:
 1. Next.js: For server-side rendering and routing.
 2. Tailwind CSS: For styling.
 3. React.js: For building user interfaces.
